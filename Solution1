@@ -1,0 +1,39 @@
+POST https://demo.docusign.net/restapi/v2/accounts/8821402/envelopes HTTP/1.1
+
+{
+  "documents": [
+	{
+  	"documentBase64": "<Base64BytesHere>",
+      "documentId": "1",
+  	"name": "blank1"
+	}
+  ],
+  "emailSubject": "This is a test envelope",
+  "enforceSignerVisibility": "true",
+  "recipients": {
+	"signers": [
+  	{
+    	"accessCode": "98371",
+    	"email": "theflash@jakedstest.xyz",
+    	"name": "Barry Allen",
+        "recipientId": "1",
+    	"tabs": {
+      	"signHereTabs": [
+        	{
+          	"documentId": "1",
+          	"pageNumber": "1",
+              "xPosition": "100",
+          	  "yPosition": "100"
+        	}
+      	]
+    	}
+  	},
+  	{
+        "email": "iamthebatman@jakedstest.xyz",
+    	"name": "Bruce Wayne",
+    	"recipientId": "2"
+  	}
+	]
+  },
+  "status": "sent"
+}

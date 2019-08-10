@@ -37,7 +37,7 @@ I decided to go with the easiest route and only use the API explorer. Also, Base
   <dd>  A. URL: https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api</dd>
   <dd>  B. I uploaded the template information to the sandbox</dd>
   <dd>  C. then I ran the call using compositeTemplates</dd>
-      <dd> URL: https://docs.google.com/document/d/1BinLmEzktszFMDk-qzGBpZFNQymHGwqiapBBPuZbTF4/edit?usp=sharing </dd>
+      
 </dl>
 
 ## Solutions

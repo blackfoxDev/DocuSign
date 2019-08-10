@@ -1,5 +1,5 @@
 # Readme
-DocuSign Api Evaluation.
+DocuSign API Evaluation.
 
 ## Overview
 This Project was amazing! I learned a lot. I had to evaluate the API Explorer, Python CLient Libary, Developer Sandbox, Developer Admin Page and the Documentation.

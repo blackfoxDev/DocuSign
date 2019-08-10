@@ -37,7 +37,7 @@ I decided to go with the easiest route and only use the API explorer. Also, Base
   <dd>  A. URL: https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api</dd>
   <dd>  B. I uploaded the template information to the sandbox</dd>
   <dd>  C. Then I ran the call using compositeTemplates</dd>
-  <dd>  D. I Grabed the TemplateId's form the Dev Sandbox and added to each CompositeTemplate</dd>
+  <dd>  D. I Grabbed the TemplateId's form the Dev Sandbox and added to each CompositeTemplate</dd>
       
 </dl>
 

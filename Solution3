@@ -1,0 +1,44 @@
+POST https://demo.docusign.net/restapi/v2/accounts/8821402/envelopes HTTP/1.1
+
+{
+  "compositeTemplates": [
+    {
+      "compositeTemplateId": "3f6c6f09-e0e0-46d6-ac0d-fa00cf94a9c0",
+      "inlineTemplates": [
+        {
+          "recipients": {
+            "signers": [
+              {
+                "email": "johndoe@test.test",
+                "name": "Joe Doe",
+                "recipientId": "1",
+                "roleName": "RoleOne"
+              }
+            ]
+          },
+          "sequence": "1"
+        }
+      ],
+      "pdfMetaDataTemplateSequence": "1"
+    },
+    {
+      "compositeTemplateId": "5b0c6b34-4f83-43a3-b25f-81998f3b37f6",
+      "inlineTemplates": [
+        {
+          "recipients": {
+            "signers": [
+              {
+                "email": "janedoe@test.test",
+                "name": "Jane Doe ",
+                "recipientId": "2",
+                "roleName": "roletwo"
+              }
+            ]
+          },
+          "sequence": "2"
+        }
+      ],
+      "pdfMetaDataTemplateSequence": "2"
+    }
+  ]
+}

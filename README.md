@@ -30,12 +30,14 @@ Workflow
 
 Issues
 1. MAC python 3.7 uses a bult in SSLopen.....
+   a. URL: https://timonweb.com/tutorials/fixing-certificate_verify_failed-error-when-trying-requests_html-out-on-mac/
 2. I needed to find a way to combind two templates
-a. https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api
-b. I uploaded the template infomation to the sandbox
-c. then i ran the call using compositeTemplates
+   a. URL: https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api
+   b. I uploaded the template infomation to the sandbox
+   c. then i ran the call using compositeTemplates
+      URL: https://docs.google.com/document/d/1BinLmEzktszFMDk-qzGBpZFNQymHGwqiapBBPuZbTF4/edit?usp=sharing
 
 Solutions
-1. link1
-2. link2
-3. link3
+1. URL: https://docs.google.com/document/d/1pp0UXpFl5F7twhdTkPgFDET78cCS0bmGQk_O6Q02Pxs/edit?usp=sharing
+2. URL: https://docs.google.com/document/d/1DNKtMGNsITAkXZEvSGyb9ltsFkJhVTzSCkqEFmm-lsU/edit?usp=sharing
+3. URL: https://docs.google.com/document/d/1BinLmEzktszFMDk-qzGBpZFNQymHGwqiapBBPuZbTF4/edit?usp=sharing

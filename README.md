@@ -30,11 +30,11 @@ I decided to go with the easiest route and only use the API explorer. Also, Base
 
 ## Issues
 1. MAC OS python 3.7 uses a built-in SSLopen.
-   a. URL: https://timonweb.com/tutorials/fixing-certificate_verify_failed-error-when-trying-requests_html-out-on-mac/
+   A. URL: https://timonweb.com/tutorials/fixing-certificate_verify_failed-error-when-trying-requests_html-out-on-mac/
 2. I needed to find a way to combine two templates
-   a. URL: https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api
-   b. I uploaded the template information to the sandbox
-   c. then I ran the call using compositeTemplates
+   A. URL: https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api
+   B. I uploaded the template information to the sandbox
+   C. then I ran the call using compositeTemplates
       URL: https://docs.google.com/document/d/1BinLmEzktszFMDk-qzGBpZFNQymHGwqiapBBPuZbTF4/edit?usp=sharing
 
 ## Solutions

@@ -29,6 +29,7 @@ I decided to go with the easiest route and only use the API explorer. Also, Base
 5. if I had an issue I used Stackoverflow
 
 ## Issues
+
 <dl>
 <dt>1. MAC OS python 3.7 uses a built-in SSLopen.</dt>
   <dd> A. URL: https://timonweb.com/tutorials/fixing-certificate_verify_failed-error-when-trying-requests_html-out-on-mac/</dd>
@@ -38,6 +39,7 @@ I decided to go with the easiest route and only use the API explorer. Also, Base
   <dd>  C. then I ran the call using compositeTemplates</dd>
       <dd> URL: https://docs.google.com/document/d/1BinLmEzktszFMDk-qzGBpZFNQymHGwqiapBBPuZbTF4/edit?usp=sharing </dd>
 </dl>
+
 ## Solutions
 1. URL: https://docs.google.com/document/d/1DNKtMGNsITAkXZEvSGyb9ltsFkJhVTzSCkqEFmm-lsU/edit?usp=sharing
 2. URL: https://docs.google.com/document/d/1pp0UXpFl5F7twhdTkPgFDET78cCS0bmGQk_O6Q02Pxs/edit?usp=sharing

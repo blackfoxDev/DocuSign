@@ -16,7 +16,7 @@ For External resources, I had to use Stackoverflow & 1 interesting blog.
 I decided to go with the easiest route and only use the API explorer. Also, Based on the fact that the resource shared with me refer to an "API Call" as an unformatted JSON file, and the API explorer returns the same format, I decided to submit my solution in the same structure as the Problem.
 
 ## Project Requirements
-1. Modify the API call in   [API TEST 1](https://github.com/DSTCSM/Technical-Assessment/blob/master/API%20Test%20) to send successfully.
+1. Modify the API call in  [API TEST 1](https://github.com/DSTCSM/Technical-Assessment/blob/master/API%20Test%20) to send successfully.
 2. Modify the API call in  [API TEST 2](https://github.com/DSTCSM/Technical-Assessment/blob/master/API%20Test%202) to send successfully.
 3. Create an API call to DocuSign that creates a single DocuSign envelope that combines the templates "TestJSON1" and "TestJSON2" and is directed to the following recipients: John Doe, johndoe@test.test and Jane Doe, janedoe@test.test.
 4. When prompted, please return your completed API calls to your recruiting coordinator.
@@ -36,7 +36,8 @@ I decided to go with the easiest route and only use the API explorer. Also, Base
 <dt>2. I needed to find a way to combine two templates</dt>
   <dd>  A. URL: https://stackoverflow.com/questions/18258186/two-templates-in-one-envelope-with-docusign-api</dd>
   <dd>  B. I uploaded the template information to the sandbox</dd>
-  <dd>  C. then I ran the call using compositeTemplates</dd>
+  <dd>  C. Then I ran the call using compositeTemplates</dd>
+  <dd>  D. I Grabed the TemplateId's form the Dev Sandbox and added to each CompositeTemplate</dd>
       
 </dl>
 

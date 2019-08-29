@@ -6,14 +6,14 @@ This Project was amazing! I learned a lot. I had to evaluate the API Explorer, P
 
 For External resources, I had to use Stackoverflow & 1 interesting blog.
 
-## I had Three concern:
-- was there a need to use one of the client Libarys?
+## I had Three Concerns:
+- Was there a need to use one of the client Libarys?
 - Was the point of this challenge to see if I can use and refactor the python Launcher application?
-- is it ok that I just used the API Explorer?
+- Is it ok that I just used the API Explorer?
 
 
 ## My Decision
-I decided to go with the easiest route and only use the API explorer. Also, Based on the fact that the resource shared with me refer to an "API Call" as an unformatted JSON file, and the API explorer returns the same format, I decided to submit my solution in the same structure as the Problem.
+I decided to go with the easiest route and only use the API explorer. Also, Based on the fact that the resource shared with me refer to an "API Call" as an unformatted JSON file, and the API explorer returns the same format, I decided to submit my solution in the same structure as the problem.
 
 ## Project Requirements
 1. Modify the API call in  [API TEST 1](https://github.com/DSTCSM/Technical-Assessment/blob/master/API%20Test%20) to send successfully.
